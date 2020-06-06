@@ -1,6 +1,7 @@
 ---
-layout: post
-title: Test Case?
+layout: page
+title: About Joseph Haun
+permalink: /about
 ---
 
 ## Welcome to GitHub Pages
